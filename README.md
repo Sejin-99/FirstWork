@@ -1,2 +1,5 @@
 # FirstWork
-WT
+
+Hi . Git is the first time
+
+
